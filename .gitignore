@@ -1,0 +1,11 @@
+cypress/downloads
+cypress/screenshots
+cypress/videos
+cypress/reports
+cypress/results
+cypress/allure-report
+cypress/allure-results
+cypress/allure-results
+allure-report
+allure-results
+node_modules
